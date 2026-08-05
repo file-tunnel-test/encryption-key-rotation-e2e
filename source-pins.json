@@ -3,12 +3,12 @@
   "sources": {
     "file-tunnel/ftnl-backend-api.rs": {
       "branch": "main",
-      "sha": "3b98c7999df69ee9165a792644591799a70c23bc",
+      "sha": "d64a2643584fbdd7c4b7b23d4d63ab5fb2360440",
       "exists": true
     },
     "file-tunnel/ftnl-interfaces": {
       "branch": "main",
-      "sha": "3adb96996ef9ed445091c37c886bb1ee9dd869dc",
+      "sha": "22cd738ac574e41b6a04188181387722fe709716",
       "exists": true
     }
   }
